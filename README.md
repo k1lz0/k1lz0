@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @k1lz0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-k1lz0 on ig.
-
-<!---
-k1lz0/k1lz0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+K1ZL0
+    Learning python...
+    
+How to reach me?
+  Discord: B>#3409
+  
+If I made any mistake please correct me I dont mind at all <3
